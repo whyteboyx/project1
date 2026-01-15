@@ -1,0 +1,12 @@
+body{
+    justify-content: center;
+    text-align: center;
+}
+.wrapper {
+    width: 420px;
+}
+body {
+    background-image: url(register.jpg);
+    background-position: cover;
+    background-size: cover;
+}
